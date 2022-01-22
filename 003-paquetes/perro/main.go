@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"~/src/programming-go/003-paquetes/gato"
+	"go/ikingari/github.com/programming-go/003-paquetes/gato"
 )
 
 func main() {
